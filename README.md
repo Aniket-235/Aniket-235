@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket-235
 - 👀 I’m interested in Science and Technology
 - 🌱 I’m currently learning Quantum Computing and AI
-- 💞️ I’m currently a mentee at QOSF mentorship program
+- 💞️ Mentee at QOSF mentorship program cohort #3
 - 📫 https://www.linkedin.com/in/sinha-aniket/
 
 <!---
